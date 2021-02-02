@@ -39,6 +39,6 @@ We are biologists interested in understanding how biodiversity and the benefits 
 
 
 
-We're a mix of researchers in different fields (ecology, evolution, statistics, and social science), right now mostly from the UK (but we'd love to expand out). We have a [fundamental question our network seeks to address](({{ site.url }}{{ site.baseurl }}/question)) - the extent to which diversity is homogenous across environmental gradients - but we're open to using the network to ask additional questions.
+We're a mix of researchers in different fields (ecology, evolution, statistics, and social science), right now mostly from the UK (but we'd love to expand out). We have a [fundamental question our network seeks to address]({{ site.url }}/question/) - the extent to which diversity is homogenous across environmental gradients - but we're open to using the network to ask additional questions.
 
-**[Maybe you would like to join us? If so, find out more about the network and you can join (it's easy!)]({{ site.url }}/join)**
+**[Maybe you would like to join us? If so, find out more about the network and you can join (it's easy!)]({{ site.url }}/join/)**
