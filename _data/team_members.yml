@@ -1,92 +1,64 @@
-- name: Milan P Allan
-  photo: Milan.jpg
-  info: Associate professor, started Jan 2015
-  email: milan.allan@gmail.com
-  number_educ: 5
-  education1: Master ETHZ, Diplomarbeit with <a href="http://www.physik.uzh.ch/groups/osterwalder/">J Osterwalder</a>, University of Zurich
-  education2: PhD St Andrews (while at Cornell University) with <a href="http://dpmc.unige.ch/gr_baumberger/index.html">Felix Baumberger</a> and <a href="http://davisgroup.lassp.cornell.edu/">JC Davis</a>
-  education3: Postdoc Cornell
-  education4: <a href="http://www.ethfellows.ethz.ch/">ETH fellow</a> at ETHZ with Andreas Wallraff
-  education5: <a href="https://www.universiteitleiden.nl/en/news/2017/07/milan-allan-wins-bryan-r.-coles-prize">Bryan R. Coles Prize 2017</a>
-
-- name: Jianfeng (Jacky) Ge
-  photo: Jacky.jpg
-  info: Postdoc, started Oct 2019
-  email: ge@Physics.LeidenUniv.nl
+- name: Will Pearse
+  photo: will-pearse.jpg
+  info: Organiser. Plant lead.
   number_educ: 3
-  education1: Postdoc with <a href="http://hoffman.physics.harvard.edu">Jenny Hoffman</a>, Harvard University
-  education2: Ph.D. with <a href="https://www.physics.sjtu.edu.cn/en/people/1/jfJia">Jinfeng Jia</a>, Shanghai Jiao Tong University
-  education3: B.S. East China University of Science and Technology
+  education1: Senior lecturer at Imperial College London
+  education2: <a href="http://pearselab.com/">Website</a>
+  education3: <a href="mailto:will.pearse@imperial.ac.uk">Email</a>
 
-- name: Koen M Bastiaans
-  photo: Koen.jpg
-  info: Postdoc, started Sep 2015
-  email: Bastiaans@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: PhD with Milan Allan, Leiden University
-  education2: Master Leiden University with Milan Allan
+- name: Nils Bunnefeld
+  photo: nils-bunnefeld.jpg
+  info: Social-science lead.
+  number_educ: 3
+  education1: Professor at Stirling University
+  education2: <a href="https://www.stir.ac.uk/people/257162">Website</a>
+  education3: <a href="mailto:nils.bunnefeld@stir.ac.uk">Email</a>
 
-- name: Jiasen Niu
-  photo: Jiasen.png
-  info: Postdoc, started Oct 2020
-  email: niu@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Ph.D. with <a href="http://www2.phy.pku.edu.cn/~xilin/group-members.html">Xi Lin</a> and <a href="http://faculty.pku.edu.cn/JianWangGroup/en/zhym/25393/list/index.htm">Jian Wei</a>, Peking University
-  education2: BSc Jilin University
+- name: Nick Isaac
+  photo: nick-isaac.jpg
+  info: Network-integration lead.
+  number_educ: 3
+  education1: Macroecologist at CEH Wallingford
+  education2: <a href="https://www.ceh.ac.uk/staff/nick-isaac">Website</a>
+  education3: <a href="mailto:njbi@ceh.ac.uk">Email</a>
+  
+- name: Jonas Lembrechts
+  photo: jonas-lembrechts.jpg
+  info: Microclimate lead.
+  number_educ: 3
+  education1: Post-doc at University of Antwerp
+  education2: <a href="https://the3dlab.org/">Website</a>
+  education3: <a href="mailto:lembrechtsjonas@gmail.com">Email</a>
 
-- name: Damianos Chatzopoulos
-  photo: Damianos.jpg
-  info: PhD Student, started December 2017
-  email: chatzopoulos@Physics.LeidenUniv.nl
-  number_educ: 2
-  education1: Bachelor National and Kapodistrian University of Athens with D Syvridis
-  education2: Master TU Delft with <a href="http://vanderzantlab.tudelft.nl/">Herre van der Zant</a>
-  education3:
+- name: Hannah Mossman
+  photo: hannah-mosman.jpg
+  info: Policy lead.
+  number_educ: 3
+  education1: Senior lecturer at Manchester Metropolitan University
+  education2: <a href="https://www.mmu.ac.uk/natural-sciences/staff/profile/index.php?id=2314">Website</a>
+  education3: <a href="mailto:h.mossman@mmu.ac.uk">Email</a>
+  
+- name: Martin Sullivan
+  photo: martin-sullivan.jpg
+  info: Bird lead.
+  number_educ: 3
+  education1: Lecturer at Manchester Metropolitan University
+  education2: <a href="https://www.mmu.ac.uk/natural-sciences/staff/profile/index.php?id=4539">Website</a>
+  education3: <a href="mailto:martin.sullivan@mmu.ac.uk">Email</a>
+  
+- name: Bonnie Waring
+  photo: bonnie-waring.jpg
+  info: Microbial lead.
+  number_educ: 3
+  education1: Senior lecturer at Imperial College London
+  education2: <a href="https://waringecologylab.com/">Website</a>
+  education3: <a href="mailto:b.waring@imperial.ac.uk">Email</a>
 
-- name: Willem Tromp
-  photo: website_pic_willem.jpg
-  info: PhD Student, started September 2018
-  email: WTromp@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Master Leiden University with Felix Baumberger, Milan Allan
-  education2:
-  education3:
-  education4:
-
-- name: Tjerk Benschop
-  photo: tjeruk.jpg
-  info: PhD Student, started November 2018
-  email: benschop@physics.leidenuniv.nl
-  number_educ: 2
-  education1: Master Leiden University with Milan Allan
-  education2: Casimir PhD grant
-  education3:
-  education4:
-
-- name: Kees van Oosten
-  photo: DSC_1032.JPG
-  info: FFine mechanical engineer (also associated with the FMD)
-  email: Oosten@fmd.physics.leidenuniv.nl
-  number_educ: 2
-  education1: Leidse instrumentmakers School
-  education2: Associate degree Mechanical Engineering, Hogeschool Arnhem Nijmegen
-
-- name: Hugo van Bohemen
-  photo: hugo.jpg
-  info: Fine mechanical engineer (also associated with the FMD)
-  email: h.s.m.van.bohemen@physics.leidenuniv.nl
-  number_educ: 1
-  education1: Leidse Instrumentmakers School
-  education2:
-  education3:
-  education4:
-
-- name: "This could be you !"
-  photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
-  email: milan.allan@gmail.com
-  number_educ: 0
-  education1:
-  education2:
-  education3:
-  education4:
+- name: Alfried Vogler
+  photo: alfried-vogler.jpg
+  info: Insect lead.
+  number_educ: 3
+  education1: Professor at Imperial College London
+  education2: <a href="https://www.imperial.ac.uk/people/a.vogler/">Website</a>
+  education3: <a href="mailto:a.vogler@imperial.ac.uk">Email</a>
+  

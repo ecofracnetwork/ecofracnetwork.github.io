@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Research"
+title: "Ecological Fractal Network - Central question"
 layout: textlay
-excerpt: "Allan Lab -- Research"
+excerpt: "Ecological Fractal Network -- Central question"
 sitemap: false
-permalink: /research/
+permalink: /question/
 ---
 
-# Research
+# Core research question
 
 One of the greatest threats to the ecosystems we rely upon is not just a reduction in biodiversity, but also its homogenisation. Vast swathes of diverse, yet identical, fields are vulnerable to pathogen outbreaks or environmental disturbances. As the UK government plans to restore the country under schemes such as the 'Northern Forest', there is a pressing need to quantify landscape-scale diversity and homogenisation. **The central goal of our network is to measure UK assemblage homogenisation and structure**. We will achieve this by having network members establish sites, within which they will use fractal plot arrangements to efficiently measure diversity across spatial scales.
 
