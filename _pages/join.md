@@ -3,7 +3,7 @@ title: "Ecological Fractal Network - Join us"
 layout: textlay
 excerpt: "Ecological Fractal Network -- Join us"
 sitemap: false
-permalink: /question/
+permalink: /join/
 ---
 
 # How to get involved
