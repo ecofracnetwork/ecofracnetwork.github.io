@@ -8,7 +8,7 @@ permalink: /protocol/
 
 # Measurement protocol
 
-We've designed our protocols to be easy to incorporate into whatever fieldwork you are already carrying out, as well as requiring the minimum investment of time. It is possible to join the network by carrying out a 1m2 plant survey and day-long pitfall trap survey at only 7 sites. You can scale that up to add micro-climate sensors (and so join the SoilTemp network too!), butterfly, and bird surveys at 27 sites. Our flexible sampling strategy (see below) allows you to mix-and-match taxa to study and sites to survey as you wish. We have detailed, established measurement protocols available online [in this Google Drive folder](https://drive.google.com/drive/folders/1C2mjuh-kftlMhfzv2RfKRYQgWoH5fc3W?usp=sharing), but below we give a brief overview of the steps involved.
+We've designed our protocols to be easy to incorporate into whatever fieldwork you are already carrying out, as well as requiring the minimum investment of time. It is possible to join the network by carrying out a 1m2 plant survey at only 7 sites. You can scale that up to add micro-climate sensors (and so join the SoilTemp network too!), butterfly, and bird surveys at 27 sites. Our flexible sampling strategy (see below) allows you to mix-and-match taxa to study and sites to survey as you wish. We have detailed, established measurement protocols available online [in this Google Drive folder](https://drive.google.com/drive/folders/1C2mjuh-kftlMhfzv2RfKRYQgWoH5fc3W?usp=sharing), but below we give a brief overview of the steps involved.
 
 ![image-title-here]({{ site.url }}{{ site.baseurl }}/images/measurement.png){:class="img-responsive"}
 
