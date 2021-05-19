@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-We are biologists interested in understanding how biodiversity and the benefits to provides to people change across space and through time. We've grouped together to make a network of sites collecting common data to answer key questions about the world around us.
+We are biologists interested in understanding how biodiversity and the benefits it provides to people change across space and through time. We've grouped together to make a network of sites collecting common data to answer key questions about the world around us.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
@@ -42,6 +42,6 @@ We are biologists interested in understanding how biodiversity and the benefits 
 
 
 
-We're a mix of researchers in different fields (ecology, evolution, statistics, and social science), right now mostly from the UK (but we'd love to expand out). We have a [fundamental question our network seeks to address]({{ site.url }}/question/) - the extent to which diversity is homogenous across environmental gradients - but we're open to using the network to ask additional questions.
+We're a mix of researchers in different fields (ecology, evolution, statistics, and social science) who love to collaborate. We have a [fundamental question our network seeks to address]({{ site.url }}/question/) - the extent to which diversity is homogenous across environmental gradients - but we're open to using the network to ask additional questions.
 
 **Maybe you would like to join us?** If so, you could [download our one-page summary](https://ecofracnetwork.github.io/images/EcoFracNet-onepage.pdf), [find out more about our sampling protocol]({{ site.url }}/protocol/), [or fill in our ten-second sign-up form](https://forms.gle/y8qY86EZPmfjkzD78).
