@@ -14,6 +14,14 @@
   education2: <a href="https://www.stir.ac.uk/people/257162">Website</a>
   education3: <a href="mailto:nils.bunnefeld@stir.ac.uk">Email</a>
 
+- name: Amanda Gallinat
+  photo: amanda-gallinat.jpg
+  info: Phenology lead.
+  number_educ: 3
+  education1: Post-doc at University of Wisconsin-Milwaukee
+  education2: <a href="http://www.amandagallinat.com/">Website</a>
+  education3: <a href="mailto:amandagallinat@gmail.com">Email</a>
+
 - name: Nick Isaac
   photo: nick-isaac.jpg
   info: Network-integration lead.
