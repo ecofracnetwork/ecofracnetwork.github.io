@@ -8,6 +8,8 @@ permalink: /
 
 We are biologists interested in understanding how biodiversity and the benefits it provides to people change across space and through time. We've grouped together to make a network of sites collecting common data to answer key questions about the world around us. We currently have >40 sites in our network - perhaps you would like to join?
 
+*New exciting development: the MicroFractal Network*! As of 2025, we have a new bolt-on to our network - the MicroFractal sampling approach that surveys at even finer spatial scales! If this is of interest, [why not read more about it](https://docs.google.com/document/d/19s8zDQEJ6jHzYeGtO8KvNNNiNw87zCkN/edit?usp=sharing&ouid=117069323647837084252&rtpof=true&sd=true) and [then sign up to take part](https://docs.google.com/forms/d/e/1FAIpQLSeeAeZZoDsZt6gYt6U1GjXjCD2tsESEt4vECPotBsNm4UkYEA/viewform)
+
 
 <div align="center"><iframe src="https://www.google.com/maps/d/embed?mid=1zDwuhhFSRoQsnReeS38lq4I3WwQ95Gkc&usp=sharing" width="607" height="400" frameborder="0" and style="border:0"></iframe></div>
 
